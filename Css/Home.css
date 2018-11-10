@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+.container{
+    padding: 0;
+}
+
+.LogoBottom-Home{
+    width: 5%;
+    height: 5%;
+}
+
+.Albums-Img{
+    float: right;
+}
+
+.About-Img{
+    float: right;
+}
+
+.Bottom-border{
+    border-top: 3px white solid;
+}
